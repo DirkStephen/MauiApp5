@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp5.Pages.LoLPage"
-             Title="NewPage1">
+             Title="LoL">
     <VerticalStackLayout>
         <Label 
             Text="Welcome to LoL Page"
